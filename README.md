@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Aparna106/Aparna106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![Aparna106's GitHub | Stats](https://stats.quine.sh/Aparna106/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aparna106)
